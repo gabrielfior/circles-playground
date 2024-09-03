@@ -1,0 +1,25 @@
+{
+  "name": "circles-ai",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@circles-sdk/data": "^0.7.1",
+    "@circles-sdk/sdk": "^0.7.1",
+    "@circles-sdk/profiles": "^0.7.1",
+    "@circles-sdk/adapter-ethers": "^0.7.1",
+    "@types/node": "^22.5.2",
+    "ethers": "^6.13.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0"
+  }
+}
